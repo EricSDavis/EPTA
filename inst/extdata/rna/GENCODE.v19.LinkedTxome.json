@@ -1,0 +1,12 @@
+[
+  {
+    "index": "salmon_index",
+    "source": "GENCODE",
+    "organism": "Homo sapiens",
+    "release": "GRCh37",
+    "genome": "hg19",
+    "fasta": ["/Users/eric/Phanstiel Lab Dropbox/Eric Davis/genomes/hg19/GENCODE.v19/gencode.v19.pc_transcripts.abridged.fa", "/Users/eric/Phanstiel Lab Dropbox/Eric Davis/genomes/hg19/GENCODE.v19/gencode.v19.pc_transcripts.abridged.rRNA.fa", "/Users/eric/Phanstiel Lab Dropbox/Eric Davis/genomes/hg19/GENCODE.v19/gencode.v19.pc_transcripts.fa", "/Users/eric/Phanstiel Lab Dropbox/Eric Davis/genomes/hg19/GENCODE.v19/GRCh37.p13.genome.fa"],
+    "gtf": "/Users/eric/Phanstiel Lab Dropbox/Eric Davis/genomes/hg19/GENCODE.v19/gencode.v19.annotation.gtf_withproteinids.gtf",
+    "sha256": "cdc0660400abb3efb9db92ef677356065665ff47dbc3b9e7968c08f413d44f4e"
+  }
+]
