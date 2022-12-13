@@ -4,3 +4,7 @@
 .Ruserdata
 .DS_Store
 inst/extdata/rna/quant
+data/*
+inst/extdata/*
+Icon?
+inst/plots/*
